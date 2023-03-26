@@ -20,3 +20,5 @@ Da unser Kunde ein Radio bedienen wollte wurde eine Weiterleitung zu einem ander
 ![Radio Grid](https://user-images.githubusercontent.com/128988422/227797078-8dde8f43-2f63-4332-bdfd-482a1b0e00e7.PNG)
 Im darauffolgenden Bild ist ersichtlich wie die Einstellungen für so eine Funktion, Sender auswählen, eingestellt sein müssen.
 ![Radio](https://user-images.githubusercontent.com/128988422/227797082-9c195c76-7959-49e7-bd82-1736b7da8321.PNG)
+
+Die Videos wie z.B. das Bedienen des Grid und das Benutzen der Tastatureingabe für das Schreiben einer Mail sind bei den hochgeladenen Datein dabei.
