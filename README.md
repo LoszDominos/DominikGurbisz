@@ -7,7 +7,7 @@ Ermöglichen Sie ihrem Klienten die Steuerung des PCs mittels Kamera. Er soll ü
 Für das ACS und ARE wurde eine Modell gebraucht für die Übertragung von Daten vom Asterics Grid and das Openhab und somit an die Jalousien und Lichet in der Küche. Im Folgenden Bild wird das Mordell dargestellt. 
 ![ACS](https://user-images.githubusercontent.com/128988422/227797069-732cb72e-bf0e-477d-8193-98c4bd3b585d.PNG)
 
-Der OPENHAB Block musste noch bearbeitet werden indem wir den localhost und den port wie folgt ändern.
+Der OPENHAB Block musste noch bearbeitet werden indem wir den hostname und den port wie folgt ändern.
 ![OpenHabEinstellung](https://user-images.githubusercontent.com/128988422/227967737-940ac0ff-b2d2-485a-96fc-a5646c703ebf.PNG)
 
 Für die Steuerung wurde ein Asterics Grid benötigt. Dies sieht wie Folgt aus. 
