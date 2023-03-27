@@ -10,7 +10,11 @@ Für das ACS und ARE wurde eine Modell gebraucht für die Übertragung von Daten
 Der OPENHAB Block musste noch bearbeitet werden indem wir den hostname und den port wie folgt ändern.
 ![OpenHabEinstellung](https://user-images.githubusercontent.com/128988422/227967737-940ac0ff-b2d2-485a-96fc-a5646c703ebf.PNG)
 
-Für die Steuerung wurde ein Asterics Grid benötigt. Dies sieht wie Folgt aus. 
+Da der Klient mit der Kamera die Maus bewegen kann wurde das starup Programm von der ARE verwendet. Dies schaut beim starten so aus.
+![AREKamera](https://user-images.githubusercontent.com/128988422/227969435-8eed83c2-9434-440a-9a6a-2bf8dc5c0f80.PNG)
+
+
+Für die Steuerung wurde ein Asterics Grid benötigt. Dies sieht wie Folgt aus. (Backupdatei im Git Ordner)
 ![Grid](https://user-images.githubusercontent.com/128988422/227797072-778c96b2-9352-45b1-8cf3-d29b6d50361b.PNG)
 
 Um das Asterics Grid mit dem Openhab zu verbinden musste zuerst das ACS Modell gedownloadet werden. Dadurch wurde einem ermöglicht dem Block im Modell auszuwählen. Die Daten für die Jalousien wurden aus einem PDF entnommen. Jeder Datentyp besteht aus @OPENHAB: GERÄT, Variable. Im Fall der Jalousien gab es die Varianlen UP, DOWN und 40.
